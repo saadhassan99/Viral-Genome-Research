@@ -1,13 +1,13 @@
-LOCUS       NC_002645              27317 bp    RNA     linear   VRL 28-APR-2010
+LOCUS       NC_002645              27317 bp    RNA     linear   VRL 13-AUG-2018
 DEFINITION  Human coronavirus 229E, complete genome.
 ACCESSION   NC_002645
 VERSION     NC_002645.1
-DBLINK      BioProject: PRJNA14913
+DBLINK      BioProject: PRJNA485481
 KEYWORDS    RefSeq.
 SOURCE      Human coronavirus 229E
   ORGANISM  Human coronavirus 229E
-            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA
-            stage; Nidovirales; Coronaviridae; Coronavirinae; Alphacoronavirus.
+            Viruses; Riboviria; Nidovirales; Cornidovirineae; Coronaviridae;
+            Orthocoronavirinae; Alphacoronavirus; Duvinacovirus.
 REFERENCE   1  (bases 1 to 27317)
   AUTHORS   Thiel,V., Herold,J., Schelle,B. and Siddell,S.G.
   TITLE     Infectious RNA transcribed in vitro from a cDNA copy of the human
